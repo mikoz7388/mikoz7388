@@ -6,7 +6,7 @@
 
 Passionate about building modern web applications with cutting-edge technologies. Currently specializing in:
 
-💻 **Frontend Magic**  
+💻 **Frontend**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
@@ -30,7 +30,6 @@ Passionate about building modern web applications with cutting-edge technologies
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://jutube-ten.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mikoz7388/jutube)
 
-✨ *More projects available on my [GitHub Profile](https://github.com/mikoz7388)*
 ---
 
 "Truth can only be found in one place: the code." - Robert C. Martin
